@@ -14,12 +14,19 @@ Com uma base sólida em análise, ETL e visualização, meu objetivo é transfor
 <!--
 Atenção: A imagem de estatísticas do GitHub pode falhar ocasionalmente.
 Isso geralmente é um problema temporário com o serviço que gera a imagem.
-Se o erro persistir, tente remover os parâmetros &amp;include_all_commits=true&amp;count_private=true da URL.
 -->
 
 <div align="center">
+<table>
+<tr>
+<td>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalesBreg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Thales Bregantin"/>
+</td>
+<td>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesBreg&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas por Thales Bregantin"/>
+</td>
+</tr>
+</table>
 </div>
 
 🛠️ Tecnologias e Ferramentas
