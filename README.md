@@ -1,64 +1,60 @@
-# 👋 Olá, eu sou o Thales Bregantin!
+👋 Olá, eu sou o Thales Bregantin!
+<div align="center">
+<a href="https://www.linkedin.com/in/thales-bregantin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:thales.bregantin@mercadolivre.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/thales-bregantin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:seu-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<br>
 
-Sou Analista de Dados no **Mercado Livre**, com background em Engenharia e Business Intelligence. Minha paixão é conectar o mundo dos dados com o de negócios, utilizando ferramentas analíticas para extrair informações valiosas, otimizar processos e suportar decisões estratégicas.
+Sou Analista de Dados no Mercado Livre, com uma trajetória profissional em Engenharia e Business Intelligence. Minha paixão é criar pontes entre o universo dos dados e as estratégias de negócio, utilizando ferramentas analíticas para extrair insights valiosos, otimizar processos e impulsionar decisões inteligentes.
 
-Com uma base sólida em análise, ETL e visualização, busco sempre transformar dados brutos em narrativas claras e impactantes.
+Com uma base sólida em análise, ETL e visualização, meu objetivo é transformar dados brutos em narrativas claras e impactantes.
 
----
+📊 GitHub Stats
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalesBreg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Thales Bregantin"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesBreg&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas por Thales Bregantin"/>
+</div>
 
-### 📊 Meus Stats no GitHub
+🛠️ Tecnologias e Ferramentas
+<div align="left">
+<strong>Linguagens & Frameworks</strong><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+</div>
+<div align="left">
+<strong>Bancos de Dados & ETL</strong><br>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server">
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery">
+<img src="https://img.shields.io/badge/SSIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SSIS">
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Power Query">
+</div>
+<div align="left">
+<strong>Cloud & Visualização</strong><br>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
+</div>
+<div align="left">
+<strong>Versionamento de Código</strong><br>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalesBreg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesBreg&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+🚀 Atuação Profissional
+Analista de Dados | Mercado Livre
 
----
+Realização de análises exploratórias em grandes volumes de dados para identificar tendências, padrões e insights acionáveis.
 
-### 🛠️ Tecnologias e Ferramentas
+Desenvolvimento e otimização de queries complexas em SQL para extração e manipulação de dados, garantindo performance e qualidade.
 
-<p align="left">
-  <strong>Linguagens & Frameworks:</strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-<p align="left">
-  <strong>Bancos de Dados & ETL:</strong><br>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
-<p align="left">
-  <strong>Cloud & Visualização:</strong><br>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</p>
-<p align="left">
-  <strong>Versionamento:</strong><br>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+Construção e manutenção de dashboards e relatórios interativos em Power BI e Looker, fornecendo visibilidade de KPIs para áreas de negócio e apoiando a tomada de decisão estratégica.
 
----
+Experiência Anterior | Business Intelligence
 
-### 🚀 Minha Atuação Profissional
+Criação e automação de pipelines de dados (ETL), otimizando a ingestão e o processamento de informações.
 
-- **Como Analista de Dados no Mercado Livre:**
-  - Realizo análises exploratórias em grandes volumes de dados para identificar tendências e insights.
-  - Desenvolvo e mantenho queries complexas em SQL para extração e manipulação de dados, garantindo a qualidade e a performance.
-  - Construo e gerencio dashboards e relatórios em **Power BI** e **Looker** para monitoramento de KPIs e para dar visibilidade das métricas às áreas de negócio.
-
-- **Experiência Anterior em Business Intelligence:**
-  - Atuei na criação de pipelines de dados (ETL) e no desenvolvimento de relatórios gerenciais que foram cruciais para a estratégia da empresa.
-  - Tive forte contato com o ecossistema Microsoft BI (SSIS, SSAS, SSRS) e Power BI.
-
+Desenvolvimento de relatórios gerenciais e dashboards em Power BI que foram cruciais para a definição de estratégias da empresa.
